@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "KWWXLK/whtTultoGo2f2xG+g8x/YrJvjki0xypgU6EDKzquWjfdITc1ZDZWurqqr/Z24uIuBcb+0hv0vJYXJxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tochukwuonyeamah.GLOBUS\\source\\repos\\Hahn.ApplicatonProcess.December2020.Web\\Hahn.ApplicatonProcess.December2020.Domain\\Hahn.ApplicatonProcess.December2020.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\fluentvalidation\\9.4.0\\fluentvalidation.9.4.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.4.0\\fluentvalidation.aspnetcore.9.4.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.4.0\\fluentvalidation.dependencyinjectionextensions.9.4.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.2\\microsoft.entityframeworkcore.5.0.2.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.2\\microsoft.entityframeworkcore.abstractions.5.0.2.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.2\\microsoft.entityframeworkcore.analyzers.5.0.2.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.2\\microsoft.entityframeworkcore.inmemory.5.0.2.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\tochukwuonyeamah.GLOBUS\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
